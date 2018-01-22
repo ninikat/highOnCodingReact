@@ -1,6 +1,3 @@
-body{
-  background-color: pink;
-}
 
 .header_div{
   background-color: #57A8F7;
@@ -16,4 +13,42 @@ body{
 
 .header_div h2{
   margin-right:20px;
+}
+.header_div a{
+  text-decoration: none;
+  color:inherit;
+}
+
+.selected{
+  font-weight:400;
+}
+.sub_header{
+  background-color: #DDDEE0;
+  margin:20px;
+  color: #54585E;
+  padding:10px;
+}
+
+.sub_header p{
+  margin-top:10px;
+}
+
+.main_content h2{
+  margin:20px;
+  color:#1369BD;
+}
+
+.main_content p{
+  margin:20px;
+}
+
+.likes_bar{
+  background-color: #F1902D;
+  display:flex;
+  margin:20px;
+}
+.likes_bar p{
+  margin-left: 10px;
+  margin-right:40px;
+  color:white;
 }
