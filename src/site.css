@@ -1,0 +1,19 @@
+body{
+  background-color: pink;
+}
+
+.header_div{
+  background-color: #57A8F7;
+  display:flex;
+  color:white;
+  padding:20px;
+  align-items: center;
+}
+
+.header_div h1{
+  margin-right:125px;
+}
+
+.header_div h2{
+  margin-right:20px;
+}
